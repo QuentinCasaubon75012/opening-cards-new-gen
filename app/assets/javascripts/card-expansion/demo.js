@@ -91,7 +91,7 @@ var demo = (function(window, undefined) {
     });
 
     // All polygons are hidden now, display the pattern container.
-    $(SELECTORS.pattern).removeClass(CLASSES.patternHidden);
+    // $(SELECTORS.pattern).removeClass(CLASSES.patternHidden);
   };
 
   /**

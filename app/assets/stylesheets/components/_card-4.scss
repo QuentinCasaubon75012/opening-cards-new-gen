@@ -18,6 +18,7 @@
 	width: 100%;
 	height: 100%;
 	-webkit-overflow-scrolling: touch;
+  background-color: #EFEFEF;
 }
 
 .card__container--closed {
@@ -28,7 +29,6 @@
 .card__image {
 	position: absolute;
 	top: 0;
-	left: 0;
 	display: block;
 	width: 100%;
 	height: 100%;

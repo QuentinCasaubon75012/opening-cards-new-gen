@@ -233,7 +233,7 @@ var Card = (function(window, undefined) {
         clearProps: 'all'
       });
 
-      $(document.body).removeClass(CLASSES.bodyHidden);
+      // $(document.body).removeClass(CLASSES.bodyHidden);
 
       this.isOpen = false;
 
